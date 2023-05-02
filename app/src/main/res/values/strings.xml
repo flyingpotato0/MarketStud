@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Blog App</string>
+    <string name="title_activity_drawer_actvity">DrawerActvity</string>
+    <string name="nav_header_title">Blog App</string>
+    <string name="nav_header_subtitle">youtube.com/artorean</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Publish Blog</string>
+    <string name="menu_slideshow">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="https_bit_ly_3ot2hij">https://bit.ly/3oT2HIJ</string>
+    <string name="https_bit_ly_3lqv2sx">https://bit.ly/3LqV2sX</string>
+    <string name="https_bit_ly_3nkamkf">https://bit.ly/3nkAMkF</string>
+    <string name="https_bit_ly_44hb7tn">https://bit.ly/44hb7tN</string>
+    <string name="enjoy_prime_benefits_like_free_fast_delivery_on_over_40_million_items_unlimited_video_streaming_and_ad_free_music_all_this_at_half_the_price_for_18_24_year_old_customers">Enjoy prime benefits like Free Fast delivery on over 40 million items, unlimited video streaming and ad free music. All this at half the price for 18-24 year old customers</string>
+    <string name="_50_cashback_on_amazon_prime_membership">50% cashback on Amazon Prime Membership</string>
+
+</resources>

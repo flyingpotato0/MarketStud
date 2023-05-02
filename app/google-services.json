@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "859918638834",
+    "project_id": "market-stud",
+    "storage_bucket": "market-stud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859918638834:android:3a6190f35a441742b57a6b",
+        "android_client_info": {
+          "package_name": "com.example.marketstud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "859918638834-l2fg8dcga18ctslnev41jg6ti5p8441l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZuu8FISrOe493uAJfwCSU5wLdNrAmvoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "859918638834-l2fg8dcga18ctslnev41jg6ti5p8441l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
